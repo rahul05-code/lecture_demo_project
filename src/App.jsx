@@ -5,7 +5,8 @@
 // import RenderCondExample from './CE301225/render_cond'
 // import DemoTest from './CE301225/demo_test'
 // import StateExample from './CE1012026/state_exercise'
-import ContactBook from './CEAB6126/contactbook'
+import ProductDemo from './CE080126/product'
+// import ContactBook from './CEAB6126/contactbook'
 function App() {
 
   return (
@@ -17,8 +18,10 @@ function App() {
     {/* <RenderCondExample/> */}
     {/* <DemoTest/> */}
     {/* <StateExample/> */}
-    <ContactBook />
+    {/* <ContactBook /> */}
+    <ProductDemo/>
     </>
+
   )
 }
 
