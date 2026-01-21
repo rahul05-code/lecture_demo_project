@@ -5,7 +5,9 @@
 // import RenderCondExample from './CE301225/render_cond'
 // import DemoTest from './CE301225/demo_test'
 // import StateExample from './CE1012026/state_exercise'
-import ProductDemo from './CE080126/product'
+// import ProductDemo from './CE080126/product'
+// import Hook1Example from './CE200126/hook1'
+import Hook2Example from './CE200126/hook2'
 // import ContactBook from './CEAB6126/contactbook'
 function App() {
 
@@ -19,7 +21,9 @@ function App() {
     {/* <DemoTest/> */}
     {/* <StateExample/> */}
     {/* <ContactBook /> */}
-    <ProductDemo/>
+    {/* <ProductDemo/> */}
+    {/* <Hook1Example/> */}
+    <Hook2Example/>
     </>
 
   )
